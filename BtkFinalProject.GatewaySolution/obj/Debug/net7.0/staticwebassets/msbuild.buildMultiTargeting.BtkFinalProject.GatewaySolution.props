@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BtkFinalProject.GatewaySolution.props" />
+</Project>

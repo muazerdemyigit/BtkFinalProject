@@ -1,0 +1,12 @@
+C:\Users\senan\Desktop\BtkFinalProject\BtkFinalProject\BtkFinalProject.MessageBus\bin\Debug\net7.0\BtkFinalProject.MessageBus.deps.json
+C:\Users\senan\Desktop\BtkFinalProject\BtkFinalProject\BtkFinalProject.MessageBus\bin\Debug\net7.0\BtkFinalProject.MessageBus.dll
+C:\Users\senan\Desktop\BtkFinalProject\BtkFinalProject\BtkFinalProject.MessageBus\bin\Debug\net7.0\BtkFinalProject.MessageBus.pdb
+C:\Users\senan\Desktop\BtkFinalProject\BtkFinalProject\BtkFinalProject.MessageBus\obj\Debug\net7.0\BtkFinalProject.MessageBus.csproj.AssemblyReference.cache
+C:\Users\senan\Desktop\BtkFinalProject\BtkFinalProject\BtkFinalProject.MessageBus\obj\Debug\net7.0\BtkFinalProject.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senan\Desktop\BtkFinalProject\BtkFinalProject\BtkFinalProject.MessageBus\obj\Debug\net7.0\BtkFinalProject.MessageBus.AssemblyInfoInputs.cache
+C:\Users\senan\Desktop\BtkFinalProject\BtkFinalProject\BtkFinalProject.MessageBus\obj\Debug\net7.0\BtkFinalProject.MessageBus.AssemblyInfo.cs
+C:\Users\senan\Desktop\BtkFinalProject\BtkFinalProject\BtkFinalProject.MessageBus\obj\Debug\net7.0\BtkFinalProject.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\senan\Desktop\BtkFinalProject\BtkFinalProject\BtkFinalProject.MessageBus\obj\Debug\net7.0\BtkFinalProject.MessageBus.dll
+C:\Users\senan\Desktop\BtkFinalProject\BtkFinalProject\BtkFinalProject.MessageBus\obj\Debug\net7.0\refint\BtkFinalProject.MessageBus.dll
+C:\Users\senan\Desktop\BtkFinalProject\BtkFinalProject\BtkFinalProject.MessageBus\obj\Debug\net7.0\BtkFinalProject.MessageBus.pdb
+C:\Users\senan\Desktop\BtkFinalProject\BtkFinalProject\BtkFinalProject.MessageBus\obj\Debug\net7.0\ref\BtkFinalProject.MessageBus.dll
