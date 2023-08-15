@@ -1,6 +1,6 @@
 # E Ticaret Uygulaması
 
-Bu proje, BTKAkademi ve AHLATÇI EĞİTİM SAĞLIK VE YARDIMLAŞ VAKFI işbirliği ile gerçekleştirilen ASP.NET Core 4 haftalık atölyesinin bir parçası olarak geliştirilmiş bir E Ticaret Uygulamasıdır. Bu atölye boyunca .NET Core ile Microservice mimarisi, API Gateway Ocelot, RabbitMQ, Identity Server teknolojileri kullanılarak geliştirildi.
+Bu proje, [BTKAkademi](https://www.btkakademi.gov.tr/) ve [AHLATÇI EĞİTİM SAĞLIK VE YARDIMLAŞ VAKFI](https://www.ahlatcivakfi.org.tr/) işbirliği ile gerçekleştirilen ASP.NET Core 4 haftalık atölyesinin bir parçası olarak geliştirilmiş bir E Ticaret Uygulamasıdır. Bu atölye boyunca .NET Core ile Microservice mimarisi, API Gateway Ocelot, RabbitMQ, Identity Server teknolojileri kullanılarak geliştirildi.
 
 ## İçerik
 
