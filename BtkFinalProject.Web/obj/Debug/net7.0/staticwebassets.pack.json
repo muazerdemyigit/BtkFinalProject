@@ -5,20 +5,20 @@
       "PackagePath": "staticwebassets\\BtkFinalProject.Web.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\Uploads\\122.png",
-      "PackagePath": "staticwebassets\\Uploads\\122.png"
-    },
-    {
       "Id": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\Uploads\\logo.png",
       "PackagePath": "staticwebassets\\Uploads\\logo.png"
     },
     {
-      "Id": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\Uploads\\panertikkar.jpg",
-      "PackagePath": "staticwebassets\\Uploads\\panertikkar.jpg"
+      "Id": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\Uploads\\panertikka.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\panertikka.jpg"
     },
     {
-      "Id": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\Uploads\\pavbaji.jpg",
-      "PackagePath": "staticwebassets\\Uploads\\pavbaji.jpg"
+      "Id": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\Uploads\\pavbhaji.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\pavbhaji.jpg"
+    },
+    {
+      "Id": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\Uploads\\samosa.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\samosa.jpg"
     },
     {
       "Id": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\Uploads\\sweetpie.jpg",

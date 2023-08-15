@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MJ/143qk+GNpQaSx2fc915asa2W8OLKJ7VdV7OKazCg=",
+  "Hash": "c4Iqm4vp+9+QpO6pOJbXVSURj9DJbcVuW5d7Pw+v06w=",
   "Source": "BtkFinalProject.Web",
   "BasePath": "_content/BtkFinalProject.Web",
   "Mode": "Default",
@@ -1105,23 +1105,6 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\Uploads\\122.png",
-      "SourceId": "BtkFinalProject.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\",
-      "BasePath": "_content/BtkFinalProject.Web",
-      "RelativePath": "Uploads/122.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Uploads\\122.png"
-    },
-    {
       "Identity": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\Uploads\\logo.png",
       "SourceId": "BtkFinalProject.Web",
       "SourceType": "Discovered",
@@ -1139,12 +1122,12 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\Uploads\\panertikkar.jpg",
+      "Identity": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\Uploads\\panertikka.jpg",
       "SourceId": "BtkFinalProject.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\",
       "BasePath": "_content/BtkFinalProject.Web",
-      "RelativePath": "Uploads/panertikkar.jpg",
+      "RelativePath": "Uploads/panertikka.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1153,15 +1136,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Uploads\\panertikkar.jpg"
+      "OriginalItemSpec": "wwwroot\\Uploads\\panertikka.jpg"
     },
     {
-      "Identity": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\Uploads\\pavbaji.jpg",
+      "Identity": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\Uploads\\pavbhaji.jpg",
       "SourceId": "BtkFinalProject.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\",
       "BasePath": "_content/BtkFinalProject.Web",
-      "RelativePath": "Uploads/pavbaji.jpg",
+      "RelativePath": "Uploads/pavbhaji.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1170,7 +1153,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Uploads\\pavbaji.jpg"
+      "OriginalItemSpec": "wwwroot\\Uploads\\pavbhaji.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\Uploads\\samosa.jpg",
+      "SourceId": "BtkFinalProject.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\",
+      "BasePath": "_content/BtkFinalProject.Web",
+      "RelativePath": "Uploads/samosa.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\samosa.jpg"
     },
     {
       "Identity": "C:\\Users\\senan\\Desktop\\BtkFinalProject\\BtkFinalProject\\BtkFinalProject.Web\\wwwroot\\Uploads\\sweetpie.jpg",

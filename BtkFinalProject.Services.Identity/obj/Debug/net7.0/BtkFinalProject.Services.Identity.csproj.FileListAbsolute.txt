@@ -413,3 +413,4 @@ C:\Users\senan\Desktop\BtkFinalProject\BtkFinalProject\BtkFinalProject.Services.
 C:\Users\senan\Desktop\BtkFinalProject\BtkFinalProject\BtkFinalProject.Services.Identity\obj\Debug\net7.0\BtkFinalProject.Services.Identity.pdb
 C:\Users\senan\Desktop\BtkFinalProject\BtkFinalProject\BtkFinalProject.Services.Identity\obj\Debug\net7.0\BtkFinalProject.Services.Identity.genruntimeconfig.cache
 C:\Users\senan\Desktop\BtkFinalProject\BtkFinalProject\BtkFinalProject.Services.Identity\obj\Debug\net7.0\ref\BtkFinalProject.Services.Identity.dll
+C:\Users\senan\Desktop\BtkFinalProject\BtkFinalProject\BtkFinalProject.Services.Identity\bin\Debug\net7.0\keys\is-signing-key-7507877385FAD52533B6A36A0F97AE95.json
