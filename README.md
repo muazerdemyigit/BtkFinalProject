@@ -2,11 +2,13 @@
 
 Bu proje, [BTKAkademi](https://www.btkakademi.gov.tr/) ve [AHLATÇI EĞİTİM SAĞLIK VE YARDIMLAŞ VAKFI](https://www.ahlatcivakfi.org.tr/) işbirliği ile gerçekleştirilen ASP.NET Core 4 haftalık atölyesinin bir parçası olarak geliştirilmiş bir E Ticaret Uygulamasıdır. Bu atölye boyunca .NET Core ile Microservice mimarisi, API Gateway Ocelot, RabbitMQ, Identity Server teknolojileri kullanılarak geliştirildi.
 
+
 ## İçerik
 
 - [Proje Ayrıntıları](#proje-ayrıntıları)
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
+- [Admin-Customer Mesajlaşma Özelliği](#admin-customer-mesajlaşma-özelliği)
 - [Eğitmen](#eğitmen)
 - [Lisans](#lisans)
 
@@ -38,6 +40,21 @@ Uygulamayı başlatmak için aşağıdaki komutu çalıştırın:
 ```bash
 dotnet run
 ```
+## Admin-Customer Mesajlaşma Özelliği
+
+Bu projede, admin kullanıcıları ile müşteri kullanıcıları arasında gerçek zamanlı mesajlaşma özelliği entegre edilmiştir. Bu özellik sayesinde müşteri hizmetleri temsilcileri (adminler), müşteri kullanıcıları ile doğrudan iletişim kurabilir ve sorularını yanıtlayabilir.
+
+### Kullanım
+
+1. Admin hesabıyla giriş yapın.
+2. Admin panelinde "Mesajlaşma" ikonuna tıklayarak bir sekmeye gidin.
+3. Mesaj göndermek için metin kutusuna mesajınızı yazın ve "Gönder" düğmesine tıklayın.
+4. Müşteri de hesabına giriş yaptığında, admin tarafından gönderilen mesajları alabilir ve cevaplayabilir.
+5. İletişimi gerçek zamanlı olarak takip edebilirsiniz.
+
+Bu özellik, adminlerin müşteri ihtiyaçlarına daha hızlı ve etkili bir şekilde yanıt verebilmesini sağlar. Ayrıca, müşteri deneyimini iyileştirerek iletişim sürecini kolaylaştırır.
+
+
 ## Eğitmen
 - [İbrahim GÖKYAR](https://www.linkedin.com/in/ibrahimgokyar/)
 
