@@ -1,0 +1,22 @@
+﻿namespace BtkFinalProject.Web.Areas.Admin.Views.Yonetici {
+    /* style.css */
+    @keyframes slideInFromLeft {
+        0% {
+            transform: translateX(-100%);
+        }
+
+        100% {
+            transform: translateX(0);
+        }
+    }
+
+    @keyframes fadeIn {
+        0% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+}

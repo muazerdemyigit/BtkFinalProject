@@ -22,6 +22,11 @@ namespace BtkFinalProject.Web.Areas.Customer.Controllers
             _cartService = cartService;
             _productService = productService;
         }
+        [Authorize]
+        public IActionResult ChatHub()
+        {
+            return View();
+        }
 
         public async Task<IActionResult> Index()
         {

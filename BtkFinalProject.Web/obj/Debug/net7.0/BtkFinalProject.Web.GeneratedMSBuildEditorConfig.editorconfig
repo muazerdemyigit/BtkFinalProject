@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxQcm9kdWN0SW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/senan/Desktop/BtkFinalProject/BtkFinalProject/BtkFinalProject.Web/Areas/Admin/Views/Yonetici/ChatHub.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcWW9uZXRpY2lcQ2hhdEh1Yi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/senan/Desktop/BtkFinalProject/BtkFinalProject/BtkFinalProject.Web/Areas/Admin/Views/Yonetici/Git.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcWW9uZXRpY2lcR2l0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -58,6 +62,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/senan/Desktop/BtkFinalProject/BtkFinalProject/BtkFinalProject.Web/Areas/Customer/Views/Cart/Confirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcQ2FydFxDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/senan/Desktop/BtkFinalProject/BtkFinalProject/BtkFinalProject.Web/Areas/Customer/Views/Home/ChatHub.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxDaGF0SHViLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/senan/Desktop/BtkFinalProject/BtkFinalProject/BtkFinalProject.Web/Areas/Customer/Views/Home/Details.cshtml]

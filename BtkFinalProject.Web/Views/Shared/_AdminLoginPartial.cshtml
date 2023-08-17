@@ -2,7 +2,11 @@
 	@if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
 	//@if (User.Identity.IsAuthenticated)
 	{
-
+		<li class="nav-item pt-lg-1">
+			<a class="nav-link" asp-controller="Yonetici" asp-action="ChatHub">
+				<i class="fa-solid fa-envelope fa-fade"></i>
+			</a>
+		</li>
 		<li class="nav-item">
 			<a class="nav-link" href="#">Merhaba @User.Identity.Name</a>
 		</li>
@@ -32,3 +36,4 @@
 		</li>
 	}
 </ul>
+<script src="https://kit.fontawesome.com/c5359f6112.js" crossorigin="anonymous"></script>
