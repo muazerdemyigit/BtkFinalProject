@@ -5,8 +5,6 @@ using System.Text;
 
 namespace BtkFinalProject.Service.OrderAPI.RabbitMQSender
 {
-
-
     public class RabbitMQOrderMessageSender : IRabbitMQOrderMessageSender
     {
         private readonly string _hostname;

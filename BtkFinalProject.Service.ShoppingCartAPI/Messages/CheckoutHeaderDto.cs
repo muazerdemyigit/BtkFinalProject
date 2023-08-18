@@ -3,7 +3,6 @@ using BtkFinalProject.Service.ShoppingCartAPI.Models.Dto;
 
 namespace BtkFinalProject.Service.ShoppingCartAPI.Messages
 {
-
     public class CheckoutHeaderDto : BaseMessage
     {
         public int CartHeaderId { get; set; }
