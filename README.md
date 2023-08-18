@@ -8,6 +8,7 @@ Bu proje, [BTKAkademi](https://www.btkakademi.gov.tr/) ve [AHLATÇI EĞİTİM SA
 - [Proje Ayrıntıları](#proje-ayrıntıları)
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
+- [Görseller](#görseller)
 - [Admin-Customer Mesajlaşma Özelliği](#admin-customer-mesajlaşma-özelliği)
 - [Eğitmen](#eğitmen)
 - [Lisans](#lisans)
@@ -40,6 +41,38 @@ Uygulamayı başlatmak için aşağıdaki komutu çalıştırın:
 ```bash
 dotnet run
 ```
+## Görseller
+
+**1. Anasayfa**
+   ![Anasayfa](https://raw.githubusercontent.com/muazerdemyigit/BtkFinalProject/main/Images/1.png)
+
+**2. Ürün Listesi**
+   ![Ürün Listesi](https://raw.githubusercontent.com/muazerdemyigit/BtkFinalProject/main/Images/2.png)
+
+**3. Ürün Düzenleme**
+   ![Ürün Düzenleme](https://raw.githubusercontent.com/muazerdemyigit/BtkFinalProject/main/Images/3.png)
+
+**4. Ürün Ekleme**
+   ![Ürün Ekleme](https://raw.githubusercontent.com/muazerdemyigit/BtkFinalProject/main/Images/4.png)
+
+**5. Ürün Detay**
+   ![Ürün Detay](https://raw.githubusercontent.com/muazerdemyigit/BtkFinalProject/main/Images/5.png)
+
+**6. Sepet**
+   ![Sepet](https://raw.githubusercontent.com/muazerdemyigit/BtkFinalProject/main/Images/6.png)
+
+**7. İndirim Kuponu**
+   ![İndirim Kuponu](https://raw.githubusercontent.com/muazerdemyigit/BtkFinalProject/main/Images/7.png)
+
+**8. Ödeme İşlemi**
+   ![Ödeme İşlemi](https://raw.githubusercontent.com/muazerdemyigit/BtkFinalProject/main/Images/8.png)
+
+**9. Ödeme Onay**
+   ![Ödeme Onay](https://raw.githubusercontent.com/muazerdemyigit/BtkFinalProject/main/Images/9.png)
+
+**10. Chat**
+    ![Chat](https://raw.githubusercontent.com/muazerdemyigit/BtkFinalProject/main/Images/10.png)
+    
 ## Admin-Customer Mesajlaşma Özelliği
 
 Bu projede, admin kullanıcıları ile müşteri kullanıcıları arasında gerçek zamanlı mesajlaşma özelliği entegre edilmiştir. Bu özellik sayesinde müşteri hizmetleri temsilcileri (adminler), müşteri kullanıcıları ile doğrudan iletişim kurabilir ve sorularını yanıtlayabilir.
